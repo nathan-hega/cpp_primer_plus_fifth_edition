@@ -1,6 +1,6 @@
 //
 // Brief: example of utilizing dynamic memory to allocate an array of structures
-// Topics: string, structures, arrays, pointers
+// Topics: string, structures, arrays, pointers, dynamic memory
 //
 
 #include <iostream>

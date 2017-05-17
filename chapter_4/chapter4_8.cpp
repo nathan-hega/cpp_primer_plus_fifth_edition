@@ -1,6 +1,6 @@
 //
 // Brief: same as chapter4_7.cpp, only with a pointer to a structure and a slightly different IO flow
-// Topics: io, string, structures, pointers
+// Topics: io, string, structures, pointers, dynamic memory
 //
 
 #include <iostream>
@@ -22,7 +22,7 @@ int main () {
 
   cout << "Enter the pizza company: ";
   getline(cin, firstCompany->company);
-  
+
   cout << "Enter the pizza weight: ";
   cin >> firstCompany->weight;
 

@@ -1,6 +1,6 @@
 //
 // Brief: Dynamically create an array of "car" structures.
-// Topics: structures, io, loops, arrays, pointers
+// Topics: structures, io, loops, arrays, pointers, dynamic memory
 //
 
 #include <iostream>
@@ -23,7 +23,7 @@ int main () {
     cout << "Please enter the year: ";
     (cin >> collection[i-1].year).get();
   }
-  
+
   // display collection
   cout << "Here is your collection:" << endl;
   for (int i = 0; i < count; ++i) {

@@ -1,6 +1,6 @@
 //
 // Brief: monetary contribution tracker based on user input (same as chapter6_6.cpp only with file io)
-// Topics: pointers, structures, file io
+// Topics: pointers, structures, file io, dynamic memory
 //
 
 #include <iostream>

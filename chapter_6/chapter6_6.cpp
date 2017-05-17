@@ -1,6 +1,6 @@
 //
 // Brief: monetary contribution tracker based on user input
-// Topics: pointers, structures
+// Topics: pointers, structures, dynamic memory
 //
 
 #include <iostream>

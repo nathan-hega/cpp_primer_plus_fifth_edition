@@ -1,6 +1,6 @@
 //
 // Brief: function fun with structures and pointers
-// Topics: functions, pointers
+// Topics: functions, pointers, dynamic memory
 //
 
 #include <iostream>

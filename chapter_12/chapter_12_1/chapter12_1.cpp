@@ -1,3 +1,8 @@
+//
+// Brief: Basic class example
+// Topics: classes, operator overloads
+//
+
 #include "cow.cpp"
 #include <iostream>
 

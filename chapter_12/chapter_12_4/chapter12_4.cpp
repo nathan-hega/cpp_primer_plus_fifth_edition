@@ -1,3 +1,8 @@
+//
+// Brief: Stack implementation
+// Topics: classes, ADT
+//
+
 #include "stack.cpp"
 #include <iostream>
 
